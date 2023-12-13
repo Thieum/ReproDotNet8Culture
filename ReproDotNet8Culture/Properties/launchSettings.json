@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "ReproDotNet8Culture": {
+      "commandName": "Project"
+    },
+    "WSL-Ubuntu": {
+      "commandName": "WSL2",
+      "distributionName": "Ubuntu"
+    },
+    "WSL-Debian": {
+      "commandName": "WSL2",
+      "distributionName": "Debian"
+    }
+  }
+}
